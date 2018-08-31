@@ -1,0 +1,114 @@
+.one{
+    display: flex;
+    justify-content: center;
+
+  }
+  .two{
+    display: flex;
+    justify-content: center;
+  }
+  .three{
+    display: flex;
+    justify-content: center;
+  }
+.four{
+  display: flex;
+  justify-content: center;
+}
+.five{
+  display: flex;
+  justify-content: center;
+}
+.six{
+  display: flex;
+  justify-content: center;
+}
+.seven{
+  display: flex;
+  justify-content: center;
+}
+.nine{
+  display: flex;
+  justify-content: center;
+}
+
+
+@media only screen and (min-width:425px) and (max-width:760px) {
+  .one{
+    display: flex;
+    justify-content: center;
+
+  }
+  .two{
+    display: flex;
+    justify-content: center;
+  }
+  .three{
+    display: flex;
+    justify-content: center;
+  }
+.four{
+  display: flex;
+  justify-content: center;
+}
+.five{
+  display: flex;
+  justify-content: center;
+}
+.six{
+  display: flex;
+  justify-content: center;
+}
+.seven{
+  display: flex;
+  justify-content: center;
+}
+
+  .nine{
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+}
+@media only screen and(max-width:424px)
+{
+  .nine{
+    display: flex;
+    flex-direction: column;
+
+  }
+  .nine,img{
+    margin: 5px;
+  }
+  .one{
+    display: flex;
+    justify-content: center;
+
+  }
+  .two{
+    display: flex;
+    justify-content: center;
+  }
+  .three{
+    display: flex;
+    justify-content: center;
+  }
+.four{
+  display: flex;
+  justify-content: center;
+}
+.five{
+  display: flex;
+  justify-content: center;
+}
+.six{
+  display: flex;
+  justify-content: center;
+}
+.seven{
+  display: flex;
+  justify-content: center;
+}
+
+
+}
